@@ -1,0 +1,1 @@
+- I had to play around and test diffretn css positioning styles to undestand the differences
