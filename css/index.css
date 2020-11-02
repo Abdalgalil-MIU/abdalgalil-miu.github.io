@@ -1,17 +1,12 @@
 body {
   background-color: #bdc3c7 !important;
 }
-.img {
+#my-pic {
   border-radius: 50%;
   height: 200px;
-  width: 200px;
   border: 2px solid white;
 }
-h1,
-h2,
-h3,
-h4,
-h5 {
+#name-header {
   font-family: "Playfair Display", serif;
   text-transform: uppercase;
   margin-top: 8px;
@@ -20,7 +15,7 @@ h5 {
   margin-top: 30px;
   text-align: center;
 }
-ul {
+.labs-style {
   display: inline-block;
   text-align: left;
 }
